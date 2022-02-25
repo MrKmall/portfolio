@@ -71,4 +71,8 @@ __Katalon Studio__
 - [IO Techsier project] an internal project at my company.
   * Test of website full functional testing, in this specific test case a few UI verification.\
   [the test case screenshot (Bahasa Indonesia)](https://drive.google.com/file/d/1ha4Mmy33iTneEnDCbFvbVcdrJgBuX7Nm/view?usp=sharing)
+  
+### Automated API
 
+- [reqres.in](https://reqres.in/) a dummy rest-api website.
+  * Testing a select of request **IN PROGRESS**.\
