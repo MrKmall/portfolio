@@ -74,5 +74,5 @@ __Katalon Studio__
   
 ### Automated API
 
-- [reqres.in](https://reqres.in/) a dummy rest-api website.
+- [[reqres.in]](https://reqres.in/) a dummy rest-api website.
   * Testing a select of request **TBA**.
