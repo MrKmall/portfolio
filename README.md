@@ -4,6 +4,7 @@
 - [Tools](#tools)
 - [Examples of Project that I have ever done](##examples-of-project-that-i-have-ever-done)
   * [Test run reports in Katalon Studio](#test-run-reports-in-katalon-studio)
+  * [The mobile notepad project](#the-mobile-notepad-project)
 
 ## About me
 
@@ -20,7 +21,7 @@ Polishing myself more in the process of my career as a software tester.
 
 ## Skills
 
-You can find examples of the described skills in the [Examples of my work](#examples-of-my-work) section.
+You can find examples of the described skills in the [Examples of Project that I have ever done](##examples-of-project-that-i-have-ever-done) section.
 
 __Manual testing__
   * can perform manual functional and usability testing of web applications
@@ -56,6 +57,12 @@ __Katalon Studio__
 ### Test run reports in Katalon Studio
 
 - [The working report project] an internal project at my company.
-  * Test scenario of website full functional testing on development. 
+  * Test scenario of website full functional testing while the app under development from log in, doing transaction, to log out. 
   * [the HTML file here](https://drive.google.com/file/d/1nVYMVdceHmLErOuxxgpjY0dStxlp9kCy/view?usp=sharing)
   * [the CSV file here](https://drive.google.com/file/d/1taI4oMOXp2alrkBJ0BXsXwzapElrLyLE/view?usp=sharing)
+
+- [The mobile notepad project] a simple mobile notepad app I've tested.
+  * Test scenario of the mobile app, basically creating a notepad, update, and deleted them. 
+  * [the HTML file here](https://drive.google.com/file/d/1slM9GR3lYcVY1HTL-iO4EtD-JMoE1B10/view?usp=sharing)
+  * [the PDF file here](https://drive.google.com/file/d/1d-NjIITrtSWBUrOzJIhI2XClNJwoZrtG/view?usp=sharing)
+
