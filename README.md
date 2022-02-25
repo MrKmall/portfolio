@@ -3,7 +3,7 @@
 - [Skills](#skills)
 - [Tools](#tools)
 - [Examples of my work](#examples-of-my-work)
-  * [Test run reports in Katalon Studio](#test-run-reports-in-Katalon-Studiol)
+  * [Test run reports in Katalon Studio](#test-run-reports-in-katalon-studio)
 
 ## About me
 
