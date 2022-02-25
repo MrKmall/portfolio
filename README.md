@@ -55,13 +55,19 @@ __Katalon Studio__
 
 ### Test run reports in Katalon Studio
 
-- [The working report project] an internal project at my company.
-  * Test scenario of website full functional testing while the app under development from log in, doing transaction, to log out. 
+- [The Working Report project] an internal project at my company.
+  * Test of website full functional testing while the app under development from log in, doing transaction, to log out. 
   * [the HTML file here](https://drive.google.com/file/d/1nVYMVdceHmLErOuxxgpjY0dStxlp9kCy/view?usp=sharing)
   * [the CSV file here](https://drive.google.com/file/d/1taI4oMOXp2alrkBJ0BXsXwzapElrLyLE/view?usp=sharing)
 
-- [The mobile notepad project] a simple mobile notepad app I've tested.
-  * Test scenario of the mobile app, basically creating a notepad, update, and deleted them. 
+- [Mobile Notepad project] a simple mobile notepad app I've tested.
+  * Test of the mobile app, basically creating a notepad, update, and deleted them. 
   * [the HTML file here](https://drive.google.com/file/d/1slM9GR3lYcVY1HTL-iO4EtD-JMoE1B10/view?usp=sharing)
   * [the PDF file here](https://drive.google.com/file/d/1d-NjIITrtSWBUrOzJIhI2XClNJwoZrtG/view?usp=sharing)
+
+### UI testing manual
+
+- [IO Techsier project] an internal project at my company.
+  * Test of website full functional testing, in this specific test case a few UI verification. 
+  * [the test case screenshot (Bahasa Indonesia)](https://drive.google.com/file/d/1ha4Mmy33iTneEnDCbFvbVcdrJgBuX7Nm/view?usp=sharing)
 
