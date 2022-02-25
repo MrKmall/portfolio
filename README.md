@@ -2,7 +2,7 @@
 - [About me](#about-me)
 - [Skills](#skills)
 - [Tools](#tools)
-- [Examples of Project that I have ever done](##examples-of-project-that-i-have-ever-done)
+- [Examples of Project that I have ever done](#examples-of-project-that-i-have-ever-done)
   * [Test run reports in Katalon Studio](#test-run-reports-in-katalon-studio)
   * [UI Testing manual](#ui-testing-manual)
 
@@ -21,7 +21,7 @@ Polishing myself more in the process of my career as a software tester.
 
 ## Skills
 
-You can find examples of the described skills in the [Examples of Project that I have ever done](##examples-of-project-that-i-have-ever-done) section.
+You can find examples of the described skills in the [Examples of Project that I have ever done](#examples-of-project-that-i-have-ever-done) section.
 
 __Manual testing__
   * can perform manual functional and usability testing of web applications
