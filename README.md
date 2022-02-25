@@ -59,5 +59,5 @@ __Katalon Studio__
 
 - [The working report project] an internal project at my company.
   * Test scenario of website full functional testing on development. 
-    [the HTML file here](https://drive.google.com/file/d/1nVYMVdceHmLErOuxxgpjY0dStxlp9kCy/view?usp=sharing)
-    [the CSV file here](https://drive.google.com/file/d/1taI4oMOXp2alrkBJ0BXsXwzapElrLyLE/view?usp=sharing)
+  * [the HTML file here](https://drive.google.com/file/d/1nVYMVdceHmLErOuxxgpjY0dStxlp9kCy/view?usp=sharing)
+  * [the CSV file here](https://drive.google.com/file/d/1taI4oMOXp2alrkBJ0BXsXwzapElrLyLE/view?usp=sharing)
