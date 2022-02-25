@@ -75,4 +75,6 @@ __Katalon Studio__
 ### Automated API
 
 - [[reqres.in]](https://reqres.in/) a dummy rest-api website.
-  * Testing a select of request **TBA**.
+  * Learning to test a select of request from the reqres.in using Postman for education in api testing.\
+  [the postman collection of the test](https://drive.google.com/file/d/1GERKbgsPymEMWdMq41cLPiyNaj4AlS36/view?usp=sharing)\
+  [the test result screenshot](https://drive.google.com/file/d/1yOMQAmTqGx42NUunXU0YPFciOe7ocnya/view?usp=sharing)
