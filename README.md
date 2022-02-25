@@ -4,7 +4,6 @@
 - [Tools](#tools)
 - [Examples of Project that I have ever done](##examples-of-project-that-i-have-ever-done)
   * [Test run reports in Katalon Studio](#test-run-reports-in-katalon-studio)
-  * [The mobile notepad project](#the-mobile-notepad-project)
 
 ## About me
 
