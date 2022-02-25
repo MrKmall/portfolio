@@ -2,17 +2,19 @@
 - [About me](#about-me)
 - [Skills](#skills)
 - [Tools](#tools)
-- [Examples of my work](#examples-of-my-work)
+- [Examples of Project that I have ever done](#examples-of-my-work)
   * [Test run reports in Katalon Studio](#test-run-reports-in-katalon-studio)
 
 ## About me
 
 Hello, MrKmall here. A curious person that want to catch his dreams.
 
-I've graduated from a Vocational School at Bogor City, Jawa Barat Indonesia studying Computer and Network Engineering.
+I have graduated from a Vocational School at Bogor City, Jawa Barat Indonesia studying Computer and Network Engineering.
 Now crossing the workline from "Hardware Based" to "Software Based".
 
 After following some online lectures and joining a few programmer bootcamp, now I'm working as a software tester.
+For almost two years of experience, mostly doing manual testing but I can do automation testing too with Katalon Studio.
+
 I like to know more about a new tech, especially on software testing and gain hands-on experience by doing a test of some application program.
 Polishing myself more in the process of my career as a software tester.
 
@@ -49,7 +51,7 @@ __Katalon Studio__
   * able to run created test cases
   * know how to create test log reports
 
-## Examples of my work
+## Examples of Project that I have ever done
 
 ### Test run reports in Katalon Studio
 
