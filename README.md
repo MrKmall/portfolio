@@ -57,7 +57,7 @@ __Katalon Studio__
 ### Test run reports in Katalon Studio
 
 - [The Working Report project] an internal project at my company.
-  * Test of website full functional testing while the app under development from log in, doing transaction, to log out.\
+  * Test of the website full functionality when the app is still under development from testing log in, doing check in, etc.\
   [the HTML report file here](https://drive.google.com/file/d/1nVYMVdceHmLErOuxxgpjY0dStxlp9kCy/view?usp=sharing)\
   [the CSV report file here](https://drive.google.com/file/d/1taI4oMOXp2alrkBJ0BXsXwzapElrLyLE/view?usp=sharing)
 
