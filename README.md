@@ -16,7 +16,7 @@ Now crossing the workline from "Hardware Based" to "Software Based".
 After following some online lectures and joining a few programmer bootcamp, now I'm working as a software tester.
 For almost two years of experience, mostly doing manual testing but I can do automation testing too with Katalon Studio.
 
-I like to know more about a new tech, especially on software testing and gain hands-on experience by doing a test of some application program.
+I like to know more about a new tech, especially on software testing and gain hands-on experience by doing a test of some application program and joining beta or alpha test of a mainstream work such as Windows 11.
 Polishing myself more in the process of my career as a software tester.
 
 ## Skills
