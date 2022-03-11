@@ -8,7 +8,7 @@
 
 ## About me
 
-Hello, MrKmall (A.K.A Kemal) here. A curious person that want to catch his dreams.
+Hello, Muhammad Kemal Idris (A.K.A MrKmall) here. A curious person that want to catch his dreams.
 
 I have graduated from a Vocational School at Bogor City, Jawa Barat Indonesia studying Computer and Network Engineering.
 Now crossing the workline from "Hardware Based" to "Software Based".
