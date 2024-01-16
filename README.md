@@ -11,7 +11,7 @@
 Hello, Muhammad Kemal Idris (A.K.A MrKmall) here. A curious person that want to catch his dreams.
 
 I have graduated from a Vocational School at Bogor City, Jawa Barat Indonesia studying Computer and Network Engineering.
-Now crossing the workline from "Hardware Based" to "Software Based".
+Now crossing the workline from "Hardware Based" to "Software Based". Currently studying at Universitas Terbuka in System Information major.
 
 After following some online lectures and joining a few programmer bootcamp, now I'm working as a software tester.
 For almost two years of experience, mostly doing manual testing but I can do automation testing too with Katalon Studio.
